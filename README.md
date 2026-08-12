@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mr. Mohamed, a graphic and web designer. <br>I work with HTML, CSS, and JavaScript, <br>and I also use Bootstrap to create <br>highly engaging websites.
+I am Mr. Elsayed, a graphic and web designer. <br>I work with HTML, CSS, and JavaScript, <br>and I also use Bootstrap to create <br>highly engaging websites.
 
 
 ## 🌐 Socials:
